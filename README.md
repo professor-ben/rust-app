@@ -1,6 +1,6 @@
 # Practice Rust App
 
-## Purpose
+## Learning Goals
 
 The _rust-app_ project is meant to be an exploration of the basic elements of
 Rust before they are implemented in production code.
